@@ -51,12 +51,15 @@ h1, h2 {
 
 footer {
     margin: 0 auto;
+    text-align: left;
     width: 600px;
     color: gray;
 }
 
 #copyright {
     text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
 }
 
 #date > button {
