@@ -1,0 +1,70 @@
+html {
+    background-color: black;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+body {
+    margin: 0 auto;
+    background-color: #f5f5f5;
+    padding: 1px;
+}
+
+header {
+    height: 50px;
+    text-align: center;
+    margin: 50px;
+}
+
+#header-buttons {
+    display: inline-block;
+    width: 500px;
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h2 {
+    text-align: center;
+    font-size: 35px;
+    font-weight: normal;
+    font-family: Arial, Sans-serif;
+}
+
+#date {
+    text-align: center;
+    color: gray;
+}
+
+#content {
+    width: 600px;
+    margin: 0 auto;
+    font-size: 17px;
+    line-height: 25px;
+}
+
+footer {
+    margin: 0 auto;
+    width: 600px;
+    color: gray;
+}
+
+#copyright {
+    text-align: center;
+}
+
+#date > button {
+    background-color: #449dc9;
+    color: white;
+    font-size: 15px;
+    width: 200px;
+    height: 30px;
+    margin-top: 5px;
+    border-radius: 2px;
+}
+
+button {
+    border: none;
+    font-size: 20px;
+    background-color: #f5f5f5;
+    color: gray;
+}
